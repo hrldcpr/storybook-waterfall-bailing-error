@@ -1,0 +1,13 @@
+{
+  "name": "storybook-waterfall-bailing-error",
+  "version": "0.0.1",
+  "dependencies": {
+    "react": "^17.0.2"
+  },
+  "devDependencies": {
+    "@storybook/builder-webpack5": "^6.5.10",
+    "@storybook/manager-webpack5": "^6.5.10",
+    "@storybook/react": "^6.5.10",
+    "webpack": "^5.52.0"
+  }
+}
