@@ -16,3 +16,5 @@ Error: NormalModuleFactory.beforeResolve (IgnorePlugin) is no longer a waterfall
     at /Users/harold/Downloads/storybook-waterfall-bailing-error/node_modules/webpack/lib/NormalModuleFactory.js:789:11
 ...
 ```
+
+(tested with Node v18.7.0, npm v8.15.0, MacOS v11.6.8)
